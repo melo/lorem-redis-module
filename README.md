@@ -13,3 +13,7 @@ Then you can run
     LOREM.IPSUM
 
 Simple.
+
+## License
+
+See LICENSE file for details.
